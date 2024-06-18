@@ -1,0 +1,15 @@
+.responsive-element {
+    /* Adjust these media queries and widths based on your design */
+    @media (max-width: 768px) {
+      width: 100%; /* Make elements full width on small screens */
+    }
+  
+    @media (min-width: 768px) and (max-width: 992px) {
+      /* Adjust widths for medium screens as needed */
+    }
+  
+    @media (min-width: 992px) {
+      /* Keep original widths for large screens */
+    }
+  }
+  
